@@ -1,0 +1,1 @@
+Este script remove prompts nativos do jogo, otimizando a interface e melhorando a experiência de jogo ao eliminar distrações indesejadas e fornecer uma tela mais limpa e imersiva. Ideal para uma jogabilidade mais fluida e personalizada.
